@@ -6,7 +6,7 @@ public class School {
     public static class Trie {
         Trie[] node = new Trie[26];
         boolean eow = false;
-
+//cmd added
         public static boolean atte(String ptr) {
             Trie curr = root;
             boolean result = true;
