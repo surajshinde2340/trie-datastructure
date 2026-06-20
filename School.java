@@ -7,6 +7,7 @@ public class School {
         Trie[] node = new Trie[26];
         boolean eow = false;
 //cmd added
+//changes make by dev
         public static boolean atte(String ptr) {
             Trie curr = root;
             boolean result = true;
